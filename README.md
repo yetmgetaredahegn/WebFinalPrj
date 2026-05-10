@@ -18,6 +18,13 @@
 
 ---
 
+## 🏗️ Project Deployment Link
+https://constructionhub.infinityfreeapp.com/
+To access the project in an admin mode use the below information:
+name: get
+email: a@gmail.com
+password: 123456
+
 ## 🏗️ Project Overview
 
 **ConstructionHub** is a comprehensive web-based project management system designed specifically for construction companies and project teams. It provides a centralized platform for managing construction projects, materials, tasks, and team communications.
@@ -635,7 +642,7 @@ This project is provided as-is for educational and development purposes.
 - **Project Name**: ConstructionHub
 - **Version**: 1.0.0
 - **Status**: Production Ready
-- **Last Updated**: 2024
+- **Last Updated**: 2026
 
 ### Developer Notes
 - All pages require proper authentication
