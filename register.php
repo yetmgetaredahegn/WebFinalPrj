@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $stmt = $pdo->prepare("INSERT INTO users (name, email, password) VALUES (?, ?, ?)");
                 $stmt->execute([$name, $email, $hashedPassword]);
 
-                $message = "Registration successful. <a href='login.php'>Login here</a>";
+                $message = "Registration successful. <a href='index.php'>Login here</a>";
             }
 
         } catch (PDOException $e) {
